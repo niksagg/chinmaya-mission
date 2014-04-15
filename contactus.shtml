@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+
+<!--#include virtual="/chyk/header.html"-->
+
+<!--#include virtual="/chyk/sidebar_naviagation.html"-->
+<TD id="main-copy" width = "100%" VALIGN="top">
+
+<html>
+<head>
+    <script type="text/javascript">
+        function _validate() {
+            var emVal, nameVal, CommVal, transVal;
+            var _email = document.getElementById('email').value;
+            var _name = document.getElementById('first_name').value;
+            var _comments = document.getElementById('comments').value;
+			var _trans = document.getElementById('transport').value;
+            var _lblError = document.getElementById('lblError');
+
+            if (_email != "" || _email != null) {
+                var b = _emailValidator(_email);
+                if (b == false) {
+                    _lblError.innerHTML = "Invalid Email";
+                    emVal = false;
+                }
+                else {
+                    emVal = true;
+                    if (_name == "" || _name == null) {
+                        _lblError.innerHTML = "Enter Full Name";
+                        nameVal = false;
+                    }
+                    else {
+                        nameVal = true;
+
+                                    if (_comments == "" || _comments == null) {
+                                        _lblError.innerHTML = "Enter your comments";
+                                        CommVal = false;
+                                    }
+                                    else {
+                                        CommVal = true;
+										transVal = true
+                                        if (emVal == true && nameVal == true && CommVal == true &&transVal == true) {
+                                            postIt();
+                                        }
+                                  
+                                    }
+                                }
+                            }
+
+                        }
+
+            else {
+                _lblError.innerHTML = "Enter Email ID";
+                emVal = false;
+            }
+
+
+        }
+        function _emailValidator(_email) {
+            var a;
+            var lastAtPos = _email.lastIndexOf('@');
+            var lastDotPos = _email.lastIndexOf('.');
+            if (lastAtPos < lastDotPos && lastAtPos > 0 && lastDotPos > 2 && (_email.length - lastDotPos) > 2) {
+                a = true;
+            }
+            else {
+                a = false;
+            }
+            return a;
+        }
+function hideIt() {
+    document.getElementById('lblError').innerHTML = "";
+}
+function postIt() {
+document.forms["_form"].submit();
+
+}
+
+
+
+</script>
+</head>
+<body>
+<br>
+<table width="1150" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="550">
+    <div align="center"><strong><font size='5' face="verdana" color="black">Contact Us</font></strong>
+    </div>
+	<br>	
+<font size='2' face="verdana">		Have a question??   Give us a call or send us an email! </font>
+<BR><br><font size='3'face="verdana">
+&nbsp;&nbsp;<b> Gayatri Sanku </b>: 630-802-8527<br><br>
+&nbsp;&nbsp;<b> Anjali Shah</b> : 630-802-9819<br><br>
+&nbsp;&nbsp;<b> Pooja Merai</b> : 708-567-6372</font>
+
+<br><br>
+<div align="center">
+    <a href="mailto:chykchicago@gmail.com">"Email us at : chykchicago@gmail.com"</a>
+</div>
+<br><BR>
+
+<form action="mailer.php" method="post" name="contact_form" id="_form">
+	<fieldset>
+		<legend>Contact Us </legend>
+		<div style="width:100%">
+			<span style="width:30%">
+				<label for="email">E-Mail*</label>
+			</span>
+			<span style="width:20%">:</span>
+			<span style="width:50%">
+				<input type="email" name="email" id="email" autofocus required>
+			</span>
+		</div>
+		<div>
+			<span style="width:50%">
+				<label for="first_name">Full Name*</label>
+			</span>
+			<span style="width:20%">:</span>
+			<span style="width:50%">
+				<input type="text" name="first_name" id="first_name" required>
+			</span>
+		</div>
+		<div>
+			<span style="width:50%">
+				<label for="comments">Have a Question??*</label>
+			</span>
+			<span style="width:50%">
+				<textarea name="comments" id="comments" required rows="5" cols="30"></textarea>
+			</span>
+		</div>
+		<div>
+			<span style="width:50%">
+				<label for="transport">Transport Details:</label>
+			</span>
+			<span style="width:50%">
+				<textarea name="transport" id="transport"  rows="10" cols="30"></textarea>
+			</span>
+		</div>
+		<div>
+			<font color= "Red" size= "6"> <label id="lblError">&nbsp;</label></font>
+			<input type="button" id="_submit" value="Submit" name ="Submit" onclick="_validate()">
+			<input type="reset" id="reset" value="Reset Fields">
+		</div>
+	</fieldset>
+</form>
+<br><br>
+</td>
+<td>	
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Chinmaya+Mission+Chicago,+Willowbrook,+IL&amp;sll=41.70959,-87.945046&amp;sspn=0.008906,0.01929&amp;ie=UTF8&amp;hq=Chinmaya+Mission+Chicago,&amp;hnear=Willowbrook,+DuPage,+Illinois&amp;t=m&amp;ll=41.745445,-87.923584&amp;spn=0.089655,0.145912&amp;z=12&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Chinmaya+Mission+Chicago,+Willowbrook,+IL&amp;sll=41.70959,-87.945046&amp;sspn=0.008906,0.01929&amp;ie=UTF8&amp;hq=Chinmaya+Mission+Chicago,&amp;hnear=Willowbrook,+DuPage,+Illinois&amp;t=m&amp;ll=41.745445,-87.923584&amp;spn=0.089655,0.145912&amp;z=12&amp;iwloc=A" style="color:#0000FF;text-align:left">View Larger Map</a></small>			
+</td></table>			
+</body>
+</html>
+<!--#include virtual="/chyk/footer.html"-->

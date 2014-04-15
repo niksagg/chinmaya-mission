@@ -1,0 +1,39 @@
+<!--#include virtual="/chyk/header.html"-->
+
+<!--#include virtual="/chyk/sidebar_naviagation.html"-->
+<style> 
+ a:link {text-decoration: none; color: red}
+ a:active {color: white} 
+ a.speciallink {text-decoration: underline; color: white} 
+</style>
+<TD id="main-copy" width = "100%" VALIGN="top">
+<font color="#FF0000" size="2">
+ <div align="center">
+        <p>&nbsp;</p>
+        <h3 align="left"> <big><strong>Brahmachari Prabodh Chaitanya <a name="prabodhji"></a></strong></big></h3>
+      </div>
+
+      <table width="90%" border="0" cellspacing="3">
+        <tr valign="top"> 
+          <td width="24%" height="193" > 
+            <p><img src="BrPrabodhji.jpg" width="238" height="179"></p>
+            <p align="left"><a href="mailto:prabodh@chinmayamission.org">Contact Prabodhji</a></p>
+          </td>
+          <td width="76%" height="193" > 
+            <p> 	 
+Brahmachari Prabodh Chaitanya is the resident Acharya of Chinmaya Mission San Jose. Prabodhji's spiritual call came when he read Param Pujya Gurudev's commentary on the Bhagavad Gita. Not long thereafter, Prabodhji decided to dedicate his life to the study of scriptures and the service of humanity. He served for six years at Chinmaya Mission Orlando in various capacities and subsequently went to India to participate in celebrations of the 50th anniversary of the founding of the Chinmaya Mission. He studied Vedanta for the next two years under the grace and guidance of Pujya Swami Tejomayananda and tutelage of Swami Ishwarananda. Since his appointment as Acharya of Chinmaya Mission San Jose, Prabodhji has been conducting Vedanta discourses in and around the San Francisco Bay Area. He has also conducted Jnana Yagnas, camps, and retreats all over the United States and Canada. With his affability, sense of humor, and passion for the Vedanta, Prabodhji captivates his audiences - young and old alike. 
+<p>
+Prabodhji has also participated in interfaith programs, has been interviewed by numerous newspapers, radio stations, and even Ph.D. students of Philosophy from U.S. universities. He has also addressed social issues in a documentary that depicts the power of meditation and the philosophy of the Vedanta in solving them. 
+<P>
+Prabodhji is fluent in English, Hindi and Gujarati and proficient in Sanskrit. He enjoys teaching Vedanta, Bhagavad Gita and devotional texts like the Ramayana and Srimad Bhagavatam. 
+
+<p> 
+
+          </td>
+        </tr>
+      </table>
+     
+</TD></TR>
+</table>
+
+<!--#include virtual="/chyk/footer.html"-->

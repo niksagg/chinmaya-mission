@@ -1,0 +1,13 @@
+<!--#include virtual="/chyk/headermainb.html"-->
+
+<!--#include virtual="/chyk/sidebar_naviagation.html"-->
+                         
+<TD id="main-copy" width = "100%" VALIGN="top">
+<img height="690"
+src="http://www.chinmaya-chicago.org/chyk/Logic2010.jpg" width=860
+ border="0" NOSEND="1">              
+                
+     
+</TD></TR>
+</table>
+<!--#include virtual="/chyk/footer.html"-->

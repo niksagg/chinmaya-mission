@@ -1,0 +1,55 @@
+<!--#include virtual="/chyk/header.html"-->
+
+<!--#include virtual="/chyk/sidebar_naviagation.html"-->
+<!---<link href="http://www.waterfordbanquet.com/css/water.css" rel="stylesheet" type="text/css">--->
+<TD id="main-copy" width = "100%" VALIGN="top"  background="OMlogo1.jpg">
+
+ <!--h3 align="center">Directions to Waterford Banquet and Conference Center <a href="print-directions.html" target="_blank">[click here for printer friendly version]</a></h3>
+			  <div align="center"></div-->
+<blockquote>
+                <p><span class="Title2"><!---img src="map.gif" width="297" height="24=289" align="right"--->
+                <div align="center"><font size="4" color'"#151B54"><a href="http://www.waterfordbanquet.com/maps_directions.php" target="_blank">Waterford Banquet and Conference Center</a></font></span><br>
+                  <br><font size="2"> 933 South Riverside Drive<br>
+                  Elmhurst, , IL 60126<br>
+                  Phone: 630-279-0270<br>
+                  Fax: 630-279-1240</font> </p></div>
+              </blockquote>
+              </p>
+              <p>
+The Waterford is only 12 miles away from the O’Hare International Airport and 15 miles from Midway Airport.
+
+The Waterford is ideally situated off of Route 83, barely a mile from the Oak Brook corporate shopping centers, also known as a shoppers paradise, which boasts several upscale boutiques and chic restaurants making it a perfect getaway during multi-day conferences or events.
+
+The Waterford is a popular choice for events as it is easily accessible from I-290, I-294, I-55, I-355 and I-88
+</p>
+              <blockquote>
+                <p class="highlight_text"> &raquo; From O'hare Airport</p>
+                <blockquote>
+                  <p>
+Take I-294 South towards I-290 West.<br>
+Stay on I-290 West and take exit Route 83 South Proceed approx. 2mi, at the 5th traffic light turn left onto Riverside Drive and follow the sign towards the hotel</p>
+                </blockquote>
+                <p class="highlight_text">&raquo; From Midway Airport</p>
+                <blockquote>
+                  <p>Take I-55 South to Route 83 North. Go approx., 8 miles.<br>
+Turn Right onto Riverside Drive and follow the signs to the hotel. </p>
+                </blockquote>
+                <p class="highlight_text">&raquo; From Downtown Chicago</p>
+                <blockquote>
+                  <p>Take I-290 West to Roosevelt Road (Route 38) West Exit, Go 3 miles and exit at Route 83 North.<Br>
+Turn right onto Riverside Drive and follow the signs to the hotel </p>
+                </blockquote>
+               <p class="highlight_text">&raquo; From Indiana/Ohio </p>
+                <blockquote>
+                  <p>Take I-80/90/94 West. Follow I-94 to I-294 North to Roosevelt Rd. (Route 38) West, go 2 miles and Exit Route 83 North. <br>Turn right onto Riverside Drive and follow the signs to the hotel.</p>
+                </blockquote>
+                <p class="highlight_text">&raquo; From Wisconsin </p>
+                <blockquote>
+                  <p>Take I-94 East to I-294 South (Indiana), and follow the directions from O'hare Airport. </p>
+                </blockquote>
+              </blockquote>
+
+</TD></TR>
+</table>
+
+<!--#include virtual="/chyk/footer.html"-->

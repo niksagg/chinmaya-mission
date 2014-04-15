@@ -1,0 +1,39 @@
+<!--#include virtual="/chyk/header.html"-->
+
+<!--#include virtual="/chyk/sidebar_naviagation.html"-->
+<style> 
+ a:link {text-decoration: none; color: red}
+ a:active {color: white} 
+ a.speciallink {text-decoration: underline; color: white} 
+</style>
+<TD id="main-copy" width = "100%" VALIGN="top">
+<font color="#FF0000" size="2">
+ <div align="center">
+        <p>&nbsp;</p>
+        <h3 align="left"> <big><strong>Brahmacharini Sumati Chaitanya<a name="sumatiji"></a></strong></big></h3>
+      </div>
+
+      <table width="90%" border="0" cellspacing="3">
+        <tr valign="top"> 
+          <td width="24%" height="193" > 
+            <p><img src="sumatiji.jpg" width="201" height="235"></p>
+            <p align="left"><a href="mailto:sumatichaitanya@hotmail.com">Contact Sumatiji</a></p>
+          </td>
+          <td width="76%" height="193" > 
+            <p> 	 
+A disciple of Pujya Gurudev Swami Chinmayananda, Sumatiji was initiated by Pujya Guruji Swami Tejomayananda in 1995. She has been with Chinmaya International Residential School (CIRS) in Coimbatore for the past 9 years as a friend, philosopher and spiritual guide to the children and staff. 
+<p>
+She has conducted many camps for children, youth and adults and has an amazing ability to relate to all age groups. She has a wonderful, melodious voice, evidenced in 'Geeta chanting' and 'Aradhana' bhajan cassettes and also contributed to the production of 'Chinmaya Book of Hymns' . <a href="http://www.chinmayauk.org/ebookshop/" target="_blank">(Click here to purchase online from our e-bookshop)</a>
+<p>
+Her knowledge in developing classes and groups, especially with the youth and children, sevaks (she helps to formulate and run the Dharma Sevaks course), her musical talents, will undoubtedly take us all (and CMUK in general) to greater and greater heights.
+
+<p> 
+
+          </td>
+        </tr>
+      </table>
+     
+</TD></TR>
+</table>
+
+<!--#include virtual="/chyk/footer.html"-->

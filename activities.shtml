@@ -1,0 +1,71 @@
+<!--#include virtual="/chyk/header.html"-->
+
+<!--#include virtual="/chyk/sidebar_naviagation.html"-->
+
+<TD id="main-copy" width = "100%" VALIGN="top">
+
+<B><P ALIGN="CENTER"><font size="4" face="verdana">Retreat Activities</font></P></B>
+<center>
+<table border="1" width="725">
+
+  <tr>
+    <td width="715">
+<P align="left"><font face="verdana" size="2"> Yoga & Meditation </font></P>
+    </td>
+  </tr>
+<tr>
+    <td width="715">
+<P align="left"><font face="verdana" size="2">Poignant Discourses by Swami Ishwarananda.
+</font></P>
+    </td>
+  </tr>
+
+<tr>
+    <td width="715">
+<P align="left"><font face="verdana" size="2">Thinking out of the TRUNK</font></P>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="715">
+<P align="left"><font face="verdana" size="2">Interactive group discussions.</font></P>
+    </td>
+  </tr>
+<tr>
+    <td width="715">
+<P align="left"><font face="verdana" size="2">Q&A Sessions.</font></P>
+    </td>
+  </tr>
+  <tr>
+    <td width="715">
+<P align="left"><font face="verdana" size="2">Enchanting Activities</font></P>
+    </td>
+  </tr>
+
+  <tr>
+      <td width="715">
+  <P align="left"><font face="verdana" size="2">Intriguing Icebreakers</font></P>
+      </td>
+  </tr>
+  <tr>
+      <td width="715">
+  <P align="left"><font face="verdana" size="2">Fun filled Games & Weird Sports</font></P>
+      </td>
+  </tr>
+ <tr>
+      <td width="715">
+  <P align="left"><font face="verdana" size="2">Maunam Hiking</font></P>
+      </td>
+  </tr>
+   <tr>
+      <td width="715">
+  <P align="left"><font face="verdana" size="2">Self Reflection & Seva</font></P>
+      </td>
+  </tr>
+ 
+</table>
+</center>
+</font>
+</TD></TR>
+</table>
+<!--#include virtual="/chyk/footer.html"-->

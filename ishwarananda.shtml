@@ -1,0 +1,53 @@
+<!--#include virtual="/chyk/header.html"-->
+
+<!--#include virtual="/chyk/sidebar_naviagation.html"-->
+<!--style> 
+ a:link {text-decoration: none; color: red}
+ a:active {color: black} 
+ a.speciallink {text-decoration: underline; color: black} 
+</style-->
+<TD id="main-copy" width = "100%" VALIGN="top">
+<font color="#FFFFFF" size="2">
+ <div align="center">
+        <p>&nbsp;</p>
+        <h3 align="left"><font color="#000000"> <big><strong>Swami Ishwarananda<a name="Ishwaraji"></a></strong></big></font></h3>
+      </div>
+
+      <table width="90%" border="0" cellspacing="3">
+        <tr valign="top"> 
+          <td width="24%" height="193" > 
+            <p><img src="ishwarananda.jpg" width="129" height="199"></p>
+            <p align="left"><a class=" speciallink " href="mailto:swishwarananda@hotmail.com">Contact Ishwaranandaji</a></p>
+          </td>
+          <td width="76%" height="193" > <font color="#000000" face="verdana" size="2">
+<p>
+Swami Ishwarananda was part of Chinmaya Mission Bangalore where he served as the secretary. Having been inspired by Param Pujya Swami Chinmayananda, and with the guidance of Swami Brahmananda, he left his field of software consultancy and joined Sandeepany Sadhanalaya in Mumbai in 1991. Upon completing his brahmachari training in 1993, as Brahmachari Someshwar Chaitanya, he served Chinmaya Mission Centers in Bangalore and Calcutta and eventually as resident Acharya of Chinmaya Mission Los Angeles. In March of 2000, he was given sanyas deeksha by Pujya Swami Tejomayananda, and was named Swami Ishwarananda Saraswati. Swami Ishwarananda served the Mission in Los Angeles until 2001. Swamiji was then made the Acharya in charge of Sandeepany Sadhanalaya in Mumbai for the 12th brahmachari batch from 2002 through 2004. Swamiji is a dynamic speaker and has given talks on Vedanta, stress management, management techniques and other such related fields.The topics include-
+<ul>
+<li>Medication and Meditation</li>
+<li>Spirituality at Workplace</li>
+<li>Stress Management</li>
+<li>Game of Life</li>
+<li>Human Approach to Management</li>
+<li>Profession with Principle</li>
+<li>Surfing Above Sorrows</li>
+<li>Value-based Management</li>
+<li>Mindfulness</li>
+<li>Excellence in Career</li>
+<li>Vedanta in Daily Life</li>
+<li>Spiritual Approach to Life</li>
+<li>Mind Management</li>
+<li>Vedanta for Householders</li>
+<li>Practical Spirituality</li>
+<li>Destiny versus Freewill</li>
+<li>Conscious Self Management</li>
+</ul>
+
+  </p></font>
+        </td>
+        </tr>
+      </table>
+    </font> 
+</TD></TR>
+</table>
+
+<!--#include virtual="/chyk/footer.html"-->

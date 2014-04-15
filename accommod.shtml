@@ -1,0 +1,48 @@
+<!--#include virtual="/chyk/header.html"-->
+
+<!--#include virtual="/chyk/sidebar_naviagation.html"-->
+
+
+<!--style> 
+ a:link {text-decoration: none; color: black}
+ a:active {color: white} 
+ a.speciallink {text-decoration: underline; color: white} 
+</style-->
+
+<TD id="main-copy" width = "100%" VALIGN="top">
+
+<font face="verdana"><div align="center">
+<b><a href="http://www.holidayinn.com/hotels/us/en/willowbrook/chiwb/hoteldetail" target="_blank"><h2>Holiday Inn</h2></a></b>
+7800 South Kingery Hwy, Willowbrook, IL, US, 60521<br>
+Phone: (630) 325-6500 Fax: (630) 325-6400<br>
+Hotel Front Desk: 1-847-325-6500 | Hotel Fax: 1-630-325-6400 </div><br>
+</p></a>
+<br>
+Please <a href="http://www.holidayinn.com/hotels/us/en/willowbrook/chiwb/hoteldetail/photos-tours" target="_blank">click here</a> to view the virtual tour of the Holiday Inn in WillowBrook!
+<p>
+Holiday Inn is conveniently located in WillowBrook!
+<p>
+For detailed directions, please <a href="http://www.holidayinn.com/hotels/us/en/willowbrook/chiwb/hoteldetail/directions" target="_blank">click here.</a>
+
+<br class="clear">
+        
+       
+                <div id="HotelSummaryContent">
+                  <div class="WelcomeTitle" alt='Welcome' title='Welcome'> 
+                  <strong>
+                    Welcome
+                   </strong>
+                 </div>
+
+                  Welcome to <b>Holiday Inn Willowbrook-Hinsdale Hotel, a premier corporate conference center hotel and an exceptional venue for your wedding receptions, family reunions, and religious retreats.</b> <p>Experience this truly unique destination, with something for everyone.    Conveniently located in the Western Suburbs of Chicago, <b>Holiday Inn Hotel Chicago-Willowbrook/Hinsdale</b> is accessible to all major expressways, <b>Chicago's O'Hare International Airport and Chicago's Midway Airport (complimentary shuttle to and from Midway Airport on availability & must call to schedule pick up).</b>  <p>Neighboring the corporate communities of: <b>Burr Ridge, Hinsdale, Oakbrook, Lemont and Woodridge,</b> our full service hotel and conference facility provides top-level service and amenities to satisfy our business and leisure guests. <p>All of the 220 guest room accommodations and suites have been <b>newly refreshed</b> and boast brand new pillowtop mattresses and have many conveniences and amenities. Willby's restaurant and lounge, outdoor pool, exercise room with a sauna and guest laundry facilites add to a very comfortable stay for our guests while attending a conference or visiting family in the greater <b>Chicago area.</b>
+
+                  
+                </div>
+              
+        </div></font>
+        
+        <div class="welcome">
+          
+        </div>
+<!--#include virtual="/chyk/footer.html"-->
+

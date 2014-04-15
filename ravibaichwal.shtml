@@ -1,0 +1,38 @@
+<!--#include virtual="/chyk/header.html"-->
+
+<!--#include virtual="/chyk/sidebar_naviagation.html"-->
+<style> 
+ a:link {text-decoration: none; color: red}
+ a:active {color: white} 
+ a.speciallink {text-decoration: underline; color: white} 
+</style>
+<TD id="main-copy" width = "100%" VALIGN="top">
+
+ <div align="center">
+        <p>&nbsp;</p>
+        <h3 align="left"> <big><strong>Mr Ravi Baichwal (Keynote Speaker)<a name="raviji"></a></strong></big></h3>
+      </div>
+
+      <table width="90%" border="0" cellspacing="3">
+        <tr valign="top"> 
+          <td width="24%" height="193" > 
+            <p><img src="ravibaichwal.jpg" width="158" height="198"></p>
+            
+          </td>
+          <td width="76%" height="193" > 
+            <p> 	 
+Ravi Baichwal co-anchors the Chicago's number one weekend newscasts. He also reports for ABC 7's daily newscasts. Baichwal joined ABC 7 Chicago in November 2006. Prior to arriving in Chicago, Baichwal was an integral part of CTV News, Canada's number one news organization. During his tenure, Baichwal gained a national reputation for seamless coverage of live, breaking news. He covered the fast changing world of politics and served as host of two award-winning election night specials. 
+<p> 
+Baichwal began his journalism career with the CBC, starting as a researcher in Calgary. He then became an associate producer, reporter and anchor with business programs on CBC Newsworld. .
+<p> 
+Baichwal believes in community service and volunteers with various charities dedicated to childhood welfare, AIDS and health issues.  Baichwal is married to award-winning broadcaster Sonja Nordahl. They have two children.  
+<p> 
+
+          </td>
+        </tr>
+      </table>
+     
+</TD></TR>
+</table>
+
+<!--#include virtual="/chyk/footer.html"-->

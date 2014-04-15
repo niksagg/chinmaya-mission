@@ -1,0 +1,45 @@
+<!--#include virtual="/chyk/header.html"-->
+
+<!--#include virtual="/chyk/sidebar_naviagation.html"-->
+<!--<style>
+ a:link {text-decoration: none; color: red}
+ a:active {color: white}
+ a.speciallink {text-decoration: underline; color: white}
+</style>-->
+
+<TD id="main-copy" width = "100%" VALIGN="top">
+<!---<font color="#FF0000" size="2">-->
+<p class="MsoNormal" align="center" style="text-align:center"><b>
+Photo Gallery<o:p>
+</o:p>
+</b></p>
+<p>Summer 2012!<br><img src="Limitless.jpg" width="1100" height="900"></p>
+
+<p>Winter 2011!<br><img src="winter2011.jpg" width="1100" height="900"></p>
+<p>Summer 2010!<br><img src="summer2010.jpg" width="1100" height="900"></p>
+<p><img src="chyk1234.jpg" width="1100" height="900"></p>
+<p>Summer 2009!<br><img src="camp09.jpg" width="799" height="531"></p>
+<table width="80%"  border="1" align="center" cellpadding="1" cellspacing="2">
+ <!--<tr>
+    <th scope="col"><a class=" speciallink " href="http://www.chinmaya-chicago.org/chyk/chicago.jpg" target="_blank"><strong>2009 CHYK Chicago Retreat (June 30<sup>th</sup>- July 4<sup>th</sup>, 2009)</strong></a> </th>
+    </tr>
+-->
+ <tr>
+    <th scope="col"><a class=" speciallink " href="http://picasaweb.google.com/chykchicago" target="_blank"><strong>2008 CHYK Chicago Retreat (August 4<sup>th</sup>-10<sup>th</sup>, 2008)</strong></a> </th>
+    </tr>
+  <tr>
+    <th scope="col"><a class=" speciallink " href="http://chykwest.com/gallery/digi_pics/chykchicago2007/CHYKCamp-Chicago2007/index.html" target="_blank"><strong>2007 CHYK Chicago Retreat I (August 8<sup>th</sup>-12<sup>th</sup>, 2007)</strong></a> </th>
+    </tr>
+  <tr>
+    <th scope="col"><a class=" speciallink " href="http://www.flickr.com/photos/akotireddy/sets/72157601555930472/" target="_blank"><strong>2007 CHYK Chicago Retreat II (August 8<sup>th</sup>-12<sup>th</sup>, 2007)</strong></a> </th>
+    </tr>
+  <tr>
+    <th scope="col"><a class=" speciallink " href="http://chykwest.com/gallery/digi_pics/chykchicago2003/chykchicago2003.htm" target="_blank"><strong>2003 CHYK Chicago Retreat</strong></a> </th>
+    </tr>
+
+<!-- </font> -->
+</table>
+
+</TD></TR>
+</table>
+<!--#include virtual="/chyk/footer.html"-->

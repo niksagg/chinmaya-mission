@@ -1,0 +1,40 @@
+<!--#include virtual="/chyk/header.html"-->
+
+<!--#include virtual="/chyk/sidebar_naviagation.html"-->
+<style>
+ a:link {text-decoration: none; color: red}
+ a:active {color: white}
+ a.speciallink {text-decoration: underline; color: white}
+</style>
+<TD id="main-copy" width = "100%" VALIGN="top">
+
+ <div align="center">
+        <p>&nbsp;</p>
+        <h3 align="left"> <big><strong>Acharya Vivek Gupta<a name="vivekji"></a></strong></big></h3>
+      </div>
+
+      <table width="90%" border="0" cellspacing="3">
+        <tr valign="top">
+          <td width="24%" height="300" >
+            <p><img src="vivekj.jpg" width="225" height="300"></p>
+            <p align="left"><a href="mailto:vivekgupta@chinmayamission.org">Contact Vivekji</a></p>
+          </td>
+          <td width="76%" height="193" >
+            <p>
+Having experienced much of what the world has to offer, from studying at the Ivey School of Business to travelling to over forty five countries, Vivek still sought more. Simply tired of the inconsistent peace attached to extrovert pursuits, he decided enough was enough and turned his journey within.
+<p>
+In 2005, Vivek was accepted to the intensive two year Vedanta Course at Chinmaya Mission’s Sandeepany Sadhanalaya in Mumbai, India. Under the guidance of Pujya Guruji Swami Tejomayananda, he studied the Upanishads, Srimad Bhagavad Gita, Shri Ramacharitramanas, Sanskrit, Vedic Chanting and a great deal more.
+<p>
+Joining the ultra rare company of those having graduated from a Sandeepany, now Vivek’s only purpose of life is to make others aware of what is the purpose of life - to be unconditionally happy.
+<p>
+Through his innovative and passionate style, Vivek makes the ancient wisdom of Vedanta (vision of non-duality) relevant, relatable, and reachable. Intrigued by the fact he is a young adult born and raised in Canada, all kinds of social groups, religious organizations, and Chinmaya Mission centers around North America have invited Vivek to share his insights into the truths of life.
+<p>
+
+          </td>
+        </tr>
+      </table>
+
+</TD></TR>
+</table>
+</div>
+<!--#include virtual="/chyk/footer.html"-->

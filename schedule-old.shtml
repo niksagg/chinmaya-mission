@@ -1,0 +1,1016 @@
+<!--#include virtual="/chyk/header.html"-->
+
+<!--#include virtual="/chyk/sidebar_naviagation.html"-->
+                         
+<TD id="main-copy" width = "100%" VALIGN="top">
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 9">
+<link rel=File-List href="./Page_files/filelist.xml">
+<style id="campschedule2008_12435_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.xl2412435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl2512435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl2612435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl2712435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl2812435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Time";
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl2912435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl3012435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Time";
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl3112435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl3212435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl3312435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Time";
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl3412435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Time";
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl3512435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"Short Time";
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl3612435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl3712435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3812435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl3912435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl4012435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:#FFFF99;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl4112435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:14.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Charcoal;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl4212435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Charcoal;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl4312435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl4412435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:#FFFF99;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl4512435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:#FFCC99;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl4612435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:#FFCC99;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl4712435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	background:#FFCC99;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl4812435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:#FFCC99;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl4912435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	background:#FFFF99;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl5012435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:#FFFF99;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl5112435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:#FF99CC;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl5212435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:#99CCFF;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl5312435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:#CCFFCC;
+	mso-pattern:auto none;
+	white-space:normal;}
+.xl5412435
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	background:silver;
+	mso-pattern:auto none;
+	white-space:normal;}
+-->
+</style>
+<font color="#FFFFFF" size="2">
+
+<div id="campschedule2008_12435" align=center x:publishsource="Excel">
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=933 class=xl2412435
+ style='border-collapse:collapse;table-layout:fixed;width:701pt'>
+ <col class=xl2512435 width=75 style='mso-width-source:userset;mso-width-alt:
+ 2400;width:56pt'>
+ <col class=xl2412435 width=144 span=3 style='mso-width-source:userset;
+ mso-width-alt:4608;width:108pt'>
+ <col class=xl2412435 width=142 span=3 style='mso-width-source:userset;
+ mso-width-alt:4544;width:107pt'>
+
+ <tr height=35 style='mso-height-source:userset;height:20.1pt'>
+ <td colspan=7 height=20 class=xl4112435 style='height:20.1pt'>Daily Schedule</td>
+ </tr>
+ <tr height=35 style='mso-height-source:userset;height:20.1pt'>
+ <td colspan=7 height=20 class=xl4212435 style='height:20.1pt'></td>
+ </tr>
+<!--
+
+<tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td colspan=7 height=20 class=xl4112435 width=933 style='height:15.0pt;
+  width:701pt'>Chinmaya Yuva Kendra Chicago Camp 2008</td>
+ </tr> -->
+ <tr class=xl2612435 height=21 style='mso-height-source:userset;height:15.95pt'>
+  <td height=21 class=xl3612435 width=75 style='height:15.95pt;border-top:none;
+  width:56pt'>&nbsp;</td>
+  <td class=xl3212435 width=144 style='border-top:none;border-left:none;
+  width:108pt'>Monday, August 4</td>
+  <td class=xl3212435 width=144 style='border-top:none;border-left:none;
+  width:108pt'>Tuesday, August 5</td>
+  <td class=xl3212435 width=144 style='border-top:none;border-left:none;
+  width:108pt'>Wed., August 6</td>
+  <td class=xl3212435 width=142 style='border-top:none;border-left:none;
+  width:107pt'>Thursday, August 7</td>
+  <td class=xl3212435 width=142 style='border-top:none;border-left:none;
+  width:107pt'>Friday, August 8</td>
+  <td class=xl3212435 width=142 style='border-top:none;border-left:none;
+  width:107pt'>Saturday, August 9</td>
+ <td class=xl3212435 width=142 style='border-top:none;border-left:none;
+  width:107pt'>Sunday, August 10</td>
+ </tr>
+ <tr class=xl2612435 height=21 style='mso-height-source:userset;height:15.95pt'>
+  <td rowspan=2 height=39 class=xl3012435 width=75 style='height:30.05pt;
+  border-top:none;width:56pt'>7:00-7:45</td>
+  <td rowspan=13 class=xl5412435 width=144 style='border-top:none;width:108pt'>&nbsp;</td>
+  <td rowspan=2 class=xl2712435 width=144 style='border-top:none;width:108pt'>Meditation
+  &amp; Yoga</td>
+  <td rowspan=2 class=xl2712435 width=144 style='border-top:none;width:108pt'>Meditation
+  &amp; Yoga</td>
+  <td rowspan=2 class=xl2712435 width=142 style='border-top:none;width:107pt'>Meditation
+  &amp; Yoga</td>
+  <td rowspan=2 class=xl2712435 width=142 style='border-top:none;width:107pt'>Meditation
+  &amp; Yoga</td>
+  <td rowspan=2 class=xl2712435 width=142 style='border-top:none;width:107pt'>Meditation
+  &amp; Yoga</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td height=18 class=xl3012435 width=75 style='height:14.1pt;border-top:none;
+  width:56pt'>7:45-8:00</td>
+  <td class=xl3112435 width=144 style='border-top:none;border-left:none;
+  width:108pt'>Maunam</td>
+  <td class=xl2712435 width=144 style='border-top:none;border-left:none;
+  width:108pt'>Maunam</td>
+  <td class=xl2712435 width=142 style='border-top:none;border-left:none;
+  width:107pt'>Maunam</td>
+  <td class=xl2712435 width=142 style='border-top:none;border-left:none;
+  width:107pt'>Maunam</td>
+  <td class=xl2712435 width=142 style='border-top:none;border-left:none;
+  width:107pt'>Maunam</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td rowspan=2 height=36 class=xl3012435 width=75 style='height:28.2pt;
+  border-top:none;width:56pt'>8:00-9:00</td>
+  <td rowspan=2 class=xl4912435 width=144 style='border-bottom:.5pt solid black;
+  width:108pt'>Discourse 1 - Swami Ishwaranandaji</td>
+  <td rowspan=2 class=xl4712435 width=144 style='border-bottom:.5pt solid black;
+  border-top:none;width:108pt'>Discourse 1 - Gaurang Uncle</td>
+  <td rowspan=2 class=xl4912435 width=142 style='border-bottom:.5pt solid black;
+  border-top:none;width:107pt'>Discourse 1 - Swami Ishwaranandaji</td>
+  <td rowspan=2 class=xl4712435 width=142 style='border-bottom:.5pt solid black;
+  border-top:none;width:107pt'>Discourse 1 - Gaurang Uncle</td>
+  <td rowspan=2 class=xl5212435 width=142 style='border-top:none;width:107pt'>Q&amp;A
+  Session</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td rowspan=2 height=36 class=xl3012435 width=75 style='height:28.2pt;
+  border-top:none;width:56pt'>9:00-10:00</td>
+  <td rowspan=2 class=xl3912435 width=144 style='width:108pt'>Breakfast</td>
+  <td rowspan=2 class=xl2712435 width=144 style='border-top:none;width:108pt'>Breakfast</td>
+  <td rowspan=2 class=xl2712435 width=142 style='border-top:none;width:107pt'>Breakfast</td>
+  <td rowspan=2 class=xl2712435 width=142 style='border-top:none;width:107pt'>Breakfast</td>
+  <td rowspan=2 class=xl2712435 width=142 style='border-top:none;width:107pt'>Breakfast</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td rowspan=2 height=36 class=xl3012435 width=75 style='height:28.2pt;
+  border-top:none;width:56pt'>10:00-11:00</td>
+  <td rowspan=2 class=xl2712435 width=144 style='border-top:none;width:108pt'>Group
+  Discussion</td>
+  <td rowspan=2 class=xl2712435 width=144 style='border-top:none;width:108pt'>Group
+  Discussion</td>
+  <td rowspan=2 class=xl2712435 width=142 style='border-top:none;width:107pt'>Group
+  Discussion</td>
+  <td rowspan=2 class=xl2712435 width=142 style='border-top:none;width:107pt'>Group
+  Discussion</td>
+  <td rowspan=2 class=xl2712435 width=142 style='border-top:none;width:107pt'>Camp
+  Conclusion</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td rowspan=2 height=36 class=xl3012435 width=75 style='height:28.2pt;
+  border-top:none;width:56pt'>11:00 -12:00</td>
+  <td rowspan=2 class=xl4012435 width=144 style='border-top:none;width:108pt'>Discourse
+  2 - Swami Ishwaranandaji</td>
+  <td rowspan=2 class=xl4712435 width=144 style='border-bottom:.5pt solid black;
+  border-top:none;width:108pt'>Discourse 2 - Gaurang Uncle</td>
+  <td rowspan=2 class=xl4012435 width=142 style='border-top:none;width:107pt'>Discourse
+  2 - Swami Ishwaranandaji</td>
+  <td rowspan=2 class=xl4712435 width=142 style='border-bottom:.5pt solid black;
+  border-top:none;width:107pt'>Discourse 2 - Gaurang Uncle</td>
+  <td rowspan=2 class=xl2712435 width=142 style='border-top:none;width:107pt'>Guru
+  Dakshina</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td rowspan=2 height=36 class=xl3012435 width=75 style='height:28.2pt;
+  border-top:none;width:56pt'>12:00-1:00</td>
+  <td rowspan=2 class=xl2712435 width=144 style='border-top:none;width:108pt'>Lunch</td>
+  <td rowspan=2 class=xl2712435 width=144 style='border-top:none;width:108pt'>Lunch</td>
+  <td rowspan=2 class=xl2712435 width=142 style='border-top:none;width:107pt'>Lunch</td>
+  <td rowspan=2 class=xl2712435 width=142 style='border-top:none;width:107pt'>Lunch</td>
+  <td rowspan=2 class=xl2712435 width=142 style='border-top:none;width:107pt'>Lunch</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td height=18 class=xl3012435 width=75 style='height:14.1pt;border-top:none;
+  width:56pt'>1:00-1:30</td>
+  <td rowspan=6 class=xl2712435 width=144 style='border-top:none;width:108pt'>Hotel
+  Check-In &amp; Registration</td>
+  <td class=xl2712435 width=144 style='border-top:none;border-left:none;
+  width:108pt'>Clean Up</td>
+  <td class=xl2712435 width=144 style='border-top:none;border-left:none;
+  width:108pt'>Clean Up</td>
+  <td class=xl2712435 width=142 style='border-top:none;border-left:none;
+  width:107pt'>Clean Up</td>
+  <td class=xl2712435 width=142 style='border-top:none;border-left:none;
+  width:107pt'>Clean Up</td>
+  <td class=xl2712435 width=142 style='border-top:none;border-left:none;
+  width:107pt'>Clean Up</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td rowspan=2 height=36 class=xl3012435 width=75 style='height:28.2pt;
+  border-top:none;width:56pt'>1:30-2:30</td>
+  <td rowspan=2 class=xl2712435 width=144 style='border-top:none;width:108pt'>Recreation</td>
+  <td rowspan=2 class=xl2712435 width=144 style='border-top:none;width:108pt'>Recreation</td>
+  <td rowspan=2 class=xl2712435 width=142 style='border-top:none;width:107pt'>Recreation</td>
+  <td rowspan=2 class=xl2712435 width=142 style='border-top:none;width:107pt'>Recreation</td>
+  <td rowspan=16 class=xl3112435 width=142 style='border-bottom:.5pt solid black;
+  border-top:none;width:107pt'>Outing</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td rowspan=2 height=36 class=xl3012435 width=75 style='height:28.2pt;
+  border-top:none;width:56pt'>2:30-3:30</td>
+  <td rowspan=2 class=xl2712435 width=144 style='border-top:none;width:108pt'>Group
+  Discussion</td>
+  <td rowspan=2 class=xl4012435 width=144 style='border-top:none;width:108pt'>Discourse
+  3- Swami Ishwaranandaji</td>
+  <td rowspan=2 class=xl2712435 width=142 style='border-top:none;width:107pt'>Group
+  Discussion</td>
+  <td rowspan=2 class=xl4012435 width=142 style='border-top:none;width:107pt'>Discourse
+  3- Swami Ishwaranandaji</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td height=18 class=xl3012435 width=75 style='height:14.1pt;border-top:none;
+  width:56pt'>3:30-4:00</td>
+  <td class=xl2712435 width=144 style='border-top:none;border-left:none;
+  width:108pt'>Tea &amp; Snack</td>
+  <td class=xl2712435 width=144 style='border-top:none;border-left:none;
+  width:108pt'>Tea &amp; Snack</td>
+  <td class=xl2712435 width=142 style='border-top:none;border-left:none;
+  width:107pt'>Tea &amp; Snack</td>
+  <td class=xl2712435 width=142 style='border-top:none;border-left:none;
+  width:107pt'>Tea &amp; Snack</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td rowspan=2 height=36 class=xl3012435 width=75 style='height:28.2pt;
+  border-top:none;width:56pt'>4:00-5:00</td>
+  <td rowspan=2 class=xl2712435 width=144 style='border-top:none;width:108pt'>Opening
+  Ceremony</td>
+  <td rowspan=2 class=xl4512435 width=144 style='border-top:none;width:108pt'>Discourse
+  3- Gaurang Uncle</td>
+  <td rowspan=2 class=xl2712435 width=144 style='border-top:none;width:108pt'>Group
+  Discussion</td>
+  <td rowspan=2 class=xl4512435 width=142 style='border-top:none;width:107pt'>Discourse
+  3- Gaurang Uncle</td>
+  <td rowspan=2 class=xl2712435 width=142 style='border-top:none;width:107pt'>Group
+  Discussion</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td height=18 class=xl3012435 width=75 style='height:14.1pt;border-top:none;
+  width:56pt'>5:30-6:00</td>
+  <td rowspan=2 class=xl5312435 width=144 style='border-top:none;width:108pt'>Discourse</td>
+  <td class=xl2712435 width=144 style='border-top:none;border-left:none;
+  width:108pt'>Bhajans</td>
+  <td class=xl2712435 width=144 style='border-top:none;border-left:none;
+  width:108pt'>Bhajans</td>
+  <td class=xl2712435 width=142 style='border-top:none;border-left:none;
+  width:107pt'>Bhajans</td>
+  <td class=xl2712435 width=142 style='border-top:none;border-left:none;
+  width:107pt'>Bhajans</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td rowspan=2 height=36 class=xl3012435 width=75 style='height:28.2pt;
+  border-top:none;width:56pt'>6:30-7:30</td>
+  <td rowspan=2 class=xl4612435 width=144 style='border-top:none;width:108pt'>Q&amp;A
+  Session - Gaurang Uncle</td>
+  <td rowspan=2 class=xl4412435 width=144 style='border-top:none;width:108pt'>Q&amp;A
+  Session - Swami Ishwaranandaji</td>
+  <td rowspan=2 class=xl4612435 width=142 style='border-top:none;width:107pt'>Q&amp;A
+  Session - Gaurang Uncle</td>
+  <td rowspan=2 class=xl4412435 width=142 style='border-top:none;width:107pt'>Q&amp;A
+  Session - Swami Ishwaranandaji</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td rowspan=2 height=36 class=xl2712435 width=144 style='height:28.2pt;
+  border-top:none;width:108pt'>Dinner</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td rowspan=2 height=36 class=xl3312435 width=75 style='height:28.2pt;
+  border-top:none;width:56pt'>7:30-8:30</td>
+  <td rowspan=2 class=xl2712435 width=144 style='border-top:none;width:108pt'>Dinner</td>
+  <td rowspan=2 class=xl3112435 width=144 style='border-bottom:.5pt solid black;
+  border-top:none;width:108pt'>Dinner</td>
+  <td rowspan=2 class=xl3112435 width=142 style='border-bottom:.5pt solid black;
+  border-top:none;width:107pt'>Dinner</td>
+  <td rowspan=2 class=xl3112435 width=142 style='border-bottom:.5pt solid black;
+  border-top:none;width:107pt'>Dinner</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td rowspan=5 height=90 class=xl3112435 width=144 style='border-bottom:.5pt solid black;
+  height:70.5pt;border-top:none;width:108pt'>Ice Breakers</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td height=18 class=xl3312435 width=75 style='height:14.1pt;width:56pt'>&nbsp;</td>
+  <td rowspan=4 class=xl3112435 width=144 style='border-bottom:.5pt solid black;
+  border-top:none;width:108pt'>Activity</td>
+  <td rowspan=4 class=xl3112435 width=144 style='border-bottom:.5pt solid black;
+  border-top:none;width:108pt'>Activity</td>
+  <td rowspan=4 class=xl3112435 width=142 style='border-bottom:.5pt solid black;
+  border-top:none;width:107pt'>Activity</td>
+  <td rowspan=4 class=xl3112435 width=142 style='border-bottom:.5pt solid black;
+  border-top:none;width:107pt'>Activity</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td height=18 class=xl3412435 width=75 style='height:14.1pt;width:56pt'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td height=18 class=xl3412435 width=75 style='height:14.1pt;width:56pt'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td height=18 class=xl3412435 width=75 style='height:14.1pt;width:56pt'>&nbsp;</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.1pt'>
+  <td height=18 class=xl3512435 width=75 style='height:14.1pt;width:56pt'>&nbsp;</td>
+  <td colspan=5 class=xl3712435 style='border-right:.5pt solid black'>Possible
+  Activities: Puja, Movie Night, Cultural Skit, Bonfire, Raas Garba, Talent
+  Show, Meditation/Yoga Morning Excursion</td>
+  <td class=xl2712435 width=142 style='border-top:none;border-left:none;
+  width:107pt'>&nbsp;</td>
+ </tr>
+ <tr height=16 style='mso-height-source:userset;height:12.0pt'>
+  <td height=16 class=xl2812435 width=75 style='height:12.0pt;width:56pt'></td>
+  <td class=xl2412435></td>
+  <td class=xl2412435></td>
+  <td class=xl2912435 width=144 style='width:108pt'></td>
+  <td class=xl2912435 width=142 style='width:107pt'></td>
+  <td class=xl2912435 width=142 style='width:107pt'></td>
+  <td class=xl2912435 width=142 style='width:107pt'></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl2512435 style='height:12.75pt'></td>
+  <td class=xl2912435 width=144 style='width:108pt'>Please Note:</td>
+  <td class=xl2412435 colspan=4>* Time for daily transportation,
+  housekeeping/announcements, and seva/clean-up will be allotted.</td>
+  <td class=xl2412435></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl2512435 style='height:12.75pt'></td>
+  <td class=xl2412435></td>
+  <td class=xl2412435 colspan=2>* Meet in hotel lobby at ???? for ride to
+  Ashram</td>
+  <td class=xl2412435></td>
+  <td class=xl2412435></td>
+  <td class=xl2412435></td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl2512435 style='height:12.75pt'></td>
+  <td class=xl2412435></td>
+  <td class=xl2412435 colspan=2>* Hotel room curfew at ???</td>
+  <td class=xl2412435></td>
+  <td class=xl2412435></td>
+  <td class=xl2412435></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=75 style='width:56pt'></td>
+  <td width=144 style='width:108pt'></td>
+  <td width=144 style='width:108pt'></td>
+  <td width=144 style='width:108pt'></td>
+  <td width=142 style='width:107pt'></td>
+  <td width=142 style='width:107pt'></td>
+  <td width=142 style='width:107pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+</font>
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+
+</TD></TR>
+</table>
+<!--#include virtual="/chyk/footer.html"-->

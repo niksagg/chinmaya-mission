@@ -1,0 +1,39 @@
+<!--#include virtual="/chyk/header.html"-->
+
+<!--#include virtual="/chyk/sidebar_naviagation.html"-->
+<style> 
+ a:link {text-decoration: none; color: red}
+ a:active {color: white} 
+ a.speciallink {text-decoration: underline; color: white} 
+</style>
+<TD id="main-copy" width = "100%" VALIGN="top">
+<font color="#FFFFFF" size="2">
+ <div align="center">
+        <p>&nbsp;</p>
+        <h3 align="left"> <big><strong>Acharya Gaurang Nanavaty<a name="gaurangji"></a></strong></big></h3>
+      </div>
+
+      <table width="90%" border="0" cellspacing="3">
+        <tr valign="top"> 
+          <td width="24%" height="193" > 
+            <p><img src="gaurangji.jpg" width="129" height="167"></p>
+            <p align="left"><a class=" speciallink " href="mailto:uncle@chinmayahouston.org">Contact Gaurangji</a></p>
+          </td>
+          <td width="76%" height="193" > 
+            <p>Acharya Gaurang Nanavaty, acharya and founder of Chinmaya Mission Houston (CMH), was inspired to study Vedanta after attending satsangs and spiritual camps conducted by Pujya Gurudev Swami Chinmayananda. In 1979, he and his wife joined the two-and-a-half year intensive Vedanta residential course in Piercy, California, where they immersed themselves in scriptural studies. 
+<p>
+In accordance with Pujya Gurudev's instructions, the Nanavatys embarked upon a life dedicated to spreading spiritual knowledge after completing their Vedantic studies in 1982. 
+<p>
+Under their able and compassionate guidance, CMH was born as a study group in 1982 of only four families, and has evolved into the present center with over 880 families. CMH continues to grow and flourish because of the acharyas' dedication, leadership, enthusiasm, and zeal. 
+<p>
+Acharya Gaurangbhai devotes his time and energy to conducting satsang and adult study groups, and organizing and managing CMH activities. Additionally, he gives discourses at various CM centers and local organizations. He has conducted spiritual camps in the US and India. 
+<p>
+Acharya Gaurangbhai understands the challenges faced by householders and aptly guides devotees on the spiritual path. His discourses, based on a deep understanding of Vedanta, are illustrated with amusing and insightful anecdotes. 
+  </p>
+        </td>
+        </tr>
+      </table>
+ </font> 
+</TD></TR>
+</table>
+<!--#include virtual="/chyk/footer.html"-->

@@ -1,0 +1,36 @@
+<!--#include virtual="/chyk/header.html"-->
+
+<!--#include virtual="/chyk/sidebar_naviagation.html"-->
+<style> 
+ a:link {text-decoration: none; color: red}
+ a:active {color: white} 
+ a.speciallink {text-decoration: underline; color: white} 
+</style>
+<TD id="main-copy" width = "100%" VALIGN="top">
+
+ <div align="center">
+        <p>&nbsp;</p>
+        <h3 align="left"> <big><strong>Swami Sharanananda<a name="sharanananda"></a></strong></big></h3>
+      </div>
+
+      <table width="90%" border="0" cellspacing="3">
+        <tr valign="top"> 
+          <td width="24%" height="193" > 
+            <p><img src="Sharana.jpg" width="210" height="208"></p>
+            <p align="left"><a href="mailto:swami@chinmaya-chicago.org">Contact Swamiji</a></p>
+          </td>
+          <td width="76%" height="193" > 
+           <p>Swami Sharanananda, the Acharya of Chinmaya Mission Chicago since 1993, hails from Orissa, India. 
+After post-graduate education in Mathematics from Utkal University, Bhuvaneshwar, he served as a teacher at Chinmaya 
+Vidyalaya, Rourkela, Orissa. Inspired by H.H. Swami Chinmayananda he joined the brahmachari training course at Sandeepany 
+Sadhanalaya, Mumbai and learnt Vedanta under the guidance of Swami Tejomayananda. On July 9, 1995 Swami Tejomayananada 
+gave him sannyasa deeksha. Swamiji has served at Chinmaya Mission Centers in Angul, Rourkela and Calcutta. Swamiji travels within United States and has been instrumental in the grass root efforts of Centers forming in the Midwest. Swamiji leads a life of humility and simplicity and practices all that he teaches. He is extremely popular with children and young adults and his meditation is expressed in the beautiful gardens of Badri, Chicago.
+
+          </td>
+        </tr>
+      </table>
+     </div>
+</font>
+</TD></TR>
+</table>
+<!--#include virtual="/chyk/footer.html"-->

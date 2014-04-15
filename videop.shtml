@@ -1,0 +1,68 @@
+<!--#include virtual="/chyk/header.html"-->
+
+<!--#include virtual="/chyk/sidebar_naviagation.html"-->
+
+<TD id="main-copy" width = "100%" VALIGN="top">
+<div align="center">
+  <center>
+
+<table border="0" cellpadding="0" cellspacing="0" width="99%" style="border: 4 outset #E4E4E4" bgcolor="#FFF3EF">
+  <tr>
+    <td width="2%" valign="top" bgcolor="#FFC7A5"><img border="0" src="cner-LT.gif" width="25" height="20"></td>
+    <td width="96%" bgcolor="#FFC7A5" align="center">
+      <h4 style="margin-top: 10"><font color="#800000">CHYK Chicago Spiritual Retreat 2010: The Logic of Spirituality</font></h4>
+    </td>
+    <td width="2%" valign="top" align="right" bgcolor="#FFC7A5"><img border="0" src="cner-RT.gif" width="25" height="20"></td>
+  </tr>
+  <tr>
+    <td width="2%">&nbsp;</td>
+    <td width="96%" align="center">
+      &nbsp;
+     
+    </td>
+  <center>
+
+    <td width="2%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="2%"></td>
+    <center>
+    <td width="96%" align="center">
+      <p align="center" style="margin-top: 12"><b>Please click Play to watch the Video</b>
+      
+      </center>
+    </td>
+    <td width="2%"></td>
+  </tr>
+  <tr>
+    <td width="2%">&nbsp;</td>
+    <td width="96%">
+      <div align="center">
+        <table border="0" cellspacing="1" width="65%">
+          <tr>
+         <td align="left">  
+
+
+<object width="640" height="385">
+<param name="movie" value="http://www.youtube.com/v/BxilTddGN4Y&hl=en_US&fs=1&"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/BxilTddGN4Y&hl=en_US&fs=1&" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+</td> 
+          </tr>
+        </table>
+      </div>
+    </td>
+    <td width="2%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="2%"><img border="0" src="cner-LB.gif" width="25" height="20"></td>
+    <td width="96%">
+      <p align="center">Hari Om!</p>
+    </td>
+    <td width="2%"><img border="0" src="cner-RB.gif" width="25" height="20"></td>
+  </tr>
+</table>
+
+  </center>
+  </div>
+</TD></TR>
+</table>
+<!--#include virtual="/chyk/footer.html"-->
