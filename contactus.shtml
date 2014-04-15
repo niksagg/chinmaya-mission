@@ -122,7 +122,7 @@ document.forms["_form"].submit();
 		</div>
 		<div>
 			<span style="width:50%">
-				<label for="comments">Have a Question??*</label>
+				<label for="comments">Have A Question??*</label>
 			</span>
 			<span style="width:50%">
 				<textarea name="comments" id="comments" required rows="5" cols="30"></textarea>
